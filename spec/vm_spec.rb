@@ -6,5 +6,6 @@ describe Vm do
     vm = Vm.new(5)
     expect(vm.size).to eq 5
   end
+
 end
 
